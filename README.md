@@ -15,9 +15,9 @@ assurance in glue-laminated timber production".
 
 ## Downloads
  
-* [raw](https://github.com/spectral-datasets/sugarcane/releases/tag/raw)
+* [raw](https://github.com/spectral-datasets/timber/releases/tag/raw)
 
-  * [4736103.zip](https://github.com/spectral-datasets/sugarcane/releases/download/raw/4736103.zip) 
+  * [4736103.zip](https://github.com/spectral-datasets/timber/releases/download/raw/4736103.zip) 
 
 
 ## Citation
