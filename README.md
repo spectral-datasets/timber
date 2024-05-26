@@ -10,7 +10,8 @@ assurance in glue-laminated timber production".
 
 ## Notes
 
-* Trim on csv reader. Must be space in ID
+* Load in as NL locale due to "," as decimal separator
+* Make temporary ID to connect to meta-data
 
 
 ## Downloads
